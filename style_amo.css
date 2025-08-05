@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(248, 246, 246);
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: red;
+    font-size: 3rem;
+}
+
+img {
+    max-width: 300px;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
